@@ -18,7 +18,7 @@ public class ejercicoFo2 {
         int numero;
         System.out.println("ingrese numero del 1 al 100");
         numero=entrada.nextInt();
-        for(int i=numero;i<100;i++)
+        for(int i=0;i<numero;i++)
             System.out.println(i);
         
         
